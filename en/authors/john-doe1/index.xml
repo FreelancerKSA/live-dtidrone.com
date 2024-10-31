@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Doe1 on Drone Tech LTD</title>
+    <link>https://test.dtidrone.com/en/authors/john-doe1/</link>
+    <description>Recent content in John Doe1 on Drone Tech LTD</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://test.dtidrone.com/en/authors/john-doe1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Engineering Services</title>
+      <link>https://test.dtidrone.com/en/engineering_services/design/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://test.dtidrone.com/en/engineering_services/design/</guid>
+      <description>We provide innovative design solutions tailored to meet specific aerospace and UAV requirements, ensuring optimal performance and compliance with&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
